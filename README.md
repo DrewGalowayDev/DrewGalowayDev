@@ -1,22 +1,3 @@
-- 👋 Hi, I’m @DrewGalowayDev
-- 👀
+- 👋 Hi, I’m Robinson Otochi,but mostly called😊 Drew Galloway, a passionate software engineer. Currently, I am a student pursuing a Bachelor of Science in Software Engineering (BSOEN) at Kisii University of Information & Technology, specializing in Computer Science and Information Technology. Additionally, I am undertaking a part-time Bachelor's degree in Robotics and Automation Engineering at Jomo Kenyatta University of Agriculture and Technology (JKUAT). My interests lie in Full Stack Web Development, Artificial Intelligence, Machine Learning, and Blockchain technology. I am constantly intrigued by the ever-evolving trends and emerging technologies in the tech industry, particularly in the fields of robotics and automation. My dedication to improving my coding skills drives me to develop robust software systems and create impactful websites. As I continue my journey, I am committed to self-improvement and staying abreast of the latest advancements in the field, drawing from the knowledge gained from both Kisii University and JKUAT.
 
-X-Flash Messenger is a new search engine being developed by software engineer Robinson. It aims to provide users with a highly intelligent, personalized, and efficient search experience.
-
-Key features of X-Flash Messenger include:
-- Advanced natural language processing to understand user intent
-- Personalized search results and recommendations
-- Multimodal search support for text, images, and voice
-- Tight integration with messaging platforms
-- Strong focus on user privacy and data security
-
-The technical architecture leverages components like NLP engines, machine learning models, distributed storage, and scalable backend infrastructure to deliver high-performance search capabilities.
-
-Future plans for X-Flash Messenger include adding multilingual support, image/video search, real-time collaboration features, and advanced analytics.
-
-Overall, X-Flash Messenger is positioned to be a transformative search engine that redefines how people access information. Robinson is enthusiastic about leading the development of this innovative project and collaborating with the broader engineering community.
-
-<!---
-DrewGalowayDev/DrewGalowayDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My job is to build ,,intergrated web based systems,blockchain engineer,software engineer,system developerso that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.
