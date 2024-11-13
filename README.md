@@ -46,8 +46,8 @@ I am continually seeking to expand my knowledge in:
 - New frameworks and tools in mobile and web development
 
 ## 📫 Get in Touch
-- **GitHub**: [Your GitHub Profile Link]
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **Email**: [Your Email Address]
+- **GitHub**: [https://github.com/DrewGalowayDev]
+- **LinkedIn**: [https://www.linkedin.com/in/robinson-otochi-921bb4311/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjTt%2FR36lSgyk1bZoP7xqxQ%3D%3D]
+- **Email**: [robinsonotoch7@gmail.com]
 
 Feel free to reach out for collaboration or just to connect! Looking forward to sharing knowledge and projects with fellow developers.
