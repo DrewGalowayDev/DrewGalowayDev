@@ -15,7 +15,7 @@ I am a passionate student currently pursuing a **Software Engineering** degree a
   
   - **Web Development**:
     - Full Stack Web Developer with a focus on the **MERN** stack (MongoDB, Express.js, React.js, Node.js).
-    - ![image](https://github.com/user-attachments/assets/17c8e25d-4ea4-43e0-96da-151761d84d34) ![image](https://github.com/user-attachments/assets/6a190b41-f06b-48d7-bab1-7f83ebbfae4c)
+    - ![image](https://github.com/user-attachments/assets/17c8e25d-4ea4-43e0-96da-151761d84d34) 
 
 
      ![image](https://github.com/user-attachments/assets/a3a72b1d-da1d-4be6-a279-0f4f303946b6)
@@ -27,20 +27,14 @@ I am a passionate student currently pursuing a **Software Engineering** degree a
 
 
 
-
-
-
-
-
-
-     
-
   
   - **Blockchain Development**:
     - Skilled in **TypeScript** for building decentralized applications.
 
   - **AI Enthusiast**:
     - Keen interest in exploring artificial intelligence technologies and applications.
+    - ##trophies
+      [![trophy](https://github-profile-trophy.vercel.app/?username=DrewGalowayDev)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌱 Currently Learning
 I am continually seeking to expand my knowledge in:
