@@ -1,3 +1,38 @@
-- 👋 Hi, I’m Robinson Otochi,but mostly called😊 Drew Galloway, a passionate software engineer. Currently, I am a student pursuing a Bachelor of Science in Software Engineering (BSOEN) at Kisii University of Information & Technology, specializing in Computer Science and Information Technology. Additionally, I am undertaking a part-time Bachelor's degree in Robotics and Automation Engineering at Jomo Kenyatta University of Agriculture and Technology (JKUAT). My interests lie in Full Stack Web Development, Artificial Intelligence, Machine Learning, and Blockchain technology. I am constantly intrigued by the ever-evolving trends and emerging technologies in the tech industry, particularly in the fields of robotics and automation. My dedication to improving my coding skills drives me to develop robust software systems and create impactful websites. As I continue my journey, I am committed to self-improvement and staying abreast of the latest advancements in the field, drawing from the knowledge gained from both Kisii University and JKUAT.
+# Hi there! 👋 I'm Drew Galloway
 
-My job is to build ,,intergrated web based systems,blockchain engineer,software engineer,system developerso that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.
+I am a passionate student currently pursuing a **Software Engineering** degree at **Kisii University**. Alongside my studies, I am also enrolled in a part-time program in **Robotics and Automation** at **Jomo Kenyatta University**.
+
+## 🚀 About Me
+
+- **Education**: 
+  - **Kisii University** - Software Engineering
+  - **Jomo Kenyatta University** - Robotics and Automation
+
+- **Skills**:
+  - **Mobile Development**:
+    - Proficient in **Java**, **Kotlin**, and **XML** for native Android development.
+    - Experience with **Flutter** and **Dart** for cross-platform applications.
+  
+  - **Web Development**:
+    - Full Stack Web Developer with a focus on the **MERN** stack (MongoDB, Express.js, React.js, Node.js).
+    - ![image](https://github.com/user-attachments/assets/a3a72b1d-da1d-4be6-a279-0f4f303946b6)
+
+  
+  - **Blockchain Development**:
+    - Skilled in **TypeScript** for building decentralized applications.
+
+  - **AI Enthusiast**:
+    - Keen interest in exploring artificial intelligence technologies and applications.
+
+## 🌱 Currently Learning
+I am continually seeking to expand my knowledge in:
+- Advanced AI techniques
+- Robotics applications
+- New frameworks and tools in mobile and web development
+
+## 📫 Get in Touch
+- **GitHub**: [Your GitHub Profile Link]
+- **LinkedIn**: [Your LinkedIn Profile Link]
+- **Email**: [Your Email Address]
+
+Feel free to reach out for collaboration or just to connect! Looking forward to sharing knowledge and projects with fellow developers.
