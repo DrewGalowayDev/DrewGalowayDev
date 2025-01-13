@@ -12,8 +12,7 @@ I am a passionate student currently pursuing a **Software Engineering** degree a
 - **📱 Mobile Development**:
   - Proficient in **Java**, **Kotlin**, and **XML** for native Android development.
   - Experience with **Flutter** and **Dart** for cross-platform applications.
-https://camo.githubusercontent.com/bbe6f6a93d8b501547da1636e9523435dcdbcdc8280d7a98775177750a37f3b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d76656e6f6d6f75732d6d616b65722673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d7061637426696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565
- 
+
   ![Mobile Development 2](https://github.com/user-attachments/assets/a3a72b1d-da1d-4be6-a279-0f4f303946b6)
   ![Mobile Development 3](https://github.com/user-attachments/assets/aa1edb30-9f18-4da8-a1fc-a554ea65d883)
   ![Mobile Development 4](https://github.com/user-attachments/assets/2ec2b104-643c-4757-a9fe-205da3fdee45)
@@ -38,6 +37,15 @@ https://camo.githubusercontent.com/bbe6f6a93d8b501547da1636e9523435dcdbcdc8280d7
 
 ### 🌱 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrewGalowayDev)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DrewGalowayDev&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="DrewGalowayDev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DrewGalowayDev&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="DrewGalowayDev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrewGalowayDev&include_all_commits=true&count_private=true" alt="DrewGalowayDev" /></p>
+
+
 
 ## 📚 Currently Learning
 I am continually seeking to expand my knowledge in:
