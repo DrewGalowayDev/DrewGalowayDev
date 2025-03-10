@@ -46,7 +46,6 @@ I am a passionate student currently pursuing a **Software Engineering** degree a
 ### 🌱 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrewGalowayDev)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DrewGalowayDev&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="DrewGalowayDev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DrewGalowayDev&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="DrewGalowayDev" /></p>
