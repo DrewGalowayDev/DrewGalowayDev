@@ -4,7 +4,7 @@
 # Hi there! 👋 I'm Drew Galloway
 
 <a href="https://github.com/DrewGalowayDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Robinson+Otochi;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+Enthusiast+%7C+Blockchain+Developer+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Robinson+Otochi;Researcher+%7C+CEO+X-Flash+ Messenger+%7C+Software+Engineer;AI+Enthusiast+%7C+Blockchain+Developer+%7C+Mobile+App+Developer+%7C+Author" alt="Typing SVG" />
 </a>
 
 I am a passionate student currently pursuing a **Software Engineering** degree at **Kisii University**. Alongside my studies, I am also enrolled in a part-time program in **Robotics and Automation** at **Jomo Kenyatta University**.
