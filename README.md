@@ -49,6 +49,9 @@ I am a passionate student currently pursuing a **Software Engineering** degree a
 
 - **🤖 AI Enthusiast**:
   - Keen interest in exploring artificial intelligence technologies and applications.
+ 
+  # 📊 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DrewGalowayDev&theme=github-compact)
 
 ### 🌱 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrewGalowayDev)](https://github.com/ryo-ma/github-profile-trophy)
