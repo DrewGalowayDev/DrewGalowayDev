@@ -41,8 +41,8 @@ I'm a passionate developer driven by impact — building multi-versated Projects
 ## 🚀 About Me
 
 ### 🎓 Education
-- **Kisii University** - Software Engineering
-- **Jomo Kenyatta University** - Robotics and Automation
+- **Kisii University** - Bachelor's Degree in Software Engineering
+- **Jomo Kenyatta University** -Part-time Degree in  Robotics and Automation
 
 
 ## 🛠 Tech Stack
