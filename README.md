@@ -49,9 +49,12 @@ I am a passionate student currently pursuing a **Software Engineering** degree a
 
 - **🤖 AI Enthusiast**:
   - Keen interest in exploring artificial intelligence technologies and applications.
- 
-  # 📊 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DrewGalowayDev&theme=github-compact)
+ ### CONTRIBUTION SUMMARY
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewGalowayDev&theme=aura_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DrewGalowayDev&theme=aura_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DrewGalowayDev&theme=aura_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DrewGalowayDev&theme=aura_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DrewGalowayDev&theme=aura_dark&utcOffset=8)
 
 ### 🌱 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrewGalowayDev)](https://github.com/ryo-ma/github-profile-trophy)
