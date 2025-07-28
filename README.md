@@ -38,25 +38,6 @@ I'm a passionate developer driven by impact — building multi-versated Projects
   </a>
 </p>
 
----
-## 🚀 Featured Projects
-
-- 🗳️ **Blockchain Voting System** – A secure decentralized e-voting platform using blockchain for transparency and tamper-proof elections.
-- 🌍 **ClimateConnect** – A platform for tracking climate-friendly practices and encouraging sustainability among communities.
-- 🎵 **Music App** – A modern web-based music streaming and discovery platform with playlist and download features.
-- 📲 **QR Scanner & Downloader** – A handy mobile/web tool for scanning QR codes and downloading resources directly.
-- 💬 **X-Flash Messenger** – A collaborative knowledge-sharing messenger for tech learners, built from the original AUSTCMS project.
-- 🏫 **Kisii University Club Management System** – A platform to streamline club registration, events, and student engagement.
-- 💼 **SkyBiz Platform** – A digital hub to empower entrepreneurs with tools, training, and mentorship in business development.
-- 🚢 **BlockVoyage** – A blockchain-powered shipping logistics platform for secure and transparent cargo tracking.
-- 🧠 **AI Emergency Diagnosis & Triage System** – An NLP-powered system for real-time emergency triage and referral support in frontline healthcare.
-- 👁️ **Diabetic Retinopathy Detection** – A deep learning project using CNNs for early detection of diabetic eye conditions from retinal images.
-- 🚜 **GreenCoin** – A decentralized carbon credit rewards platform for African farmers, built with **ICP + Blockchain + Crypto Wallets**.
-- 🩺 **AI Health Dataset for Kenyan Languages** – NLP-driven health data collection and triage model tailored for low-resource language communities.
-- 💸 **M-PESA Dev Docs** – Developer-friendly API documentation platform for seamless M-PESA integration and payment automation.
-
----
-
 ## 🚀 About Me
 
 ### 🎓 Education
@@ -107,6 +88,25 @@ I'm a passionate developer driven by impact — building multi-versated Projects
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrewGalowayDev&include_all_commits=true&count_private=true" alt="DrewGalowayDev" /></p>
 
+
+---
+## 🚀 Featured Projects
+
+- 🗳️ **Blockchain Voting System** – A secure decentralized e-voting platform using blockchain for transparency and tamper-proof elections.
+- 🌍 **ClimateConnect** – A platform for tracking climate-friendly practices and encouraging sustainability among communities.
+- 🎵 **Music App** – A modern web-based music streaming and discovery platform with playlist and download features.
+- 📲 **QR Scanner & Downloader** – A handy mobile/web tool for scanning QR codes and downloading resources directly.
+- 💬 **X-Flash Messenger** – A collaborative knowledge-sharing messenger for tech learners, built from the original AUSTCMS project.
+- 🏫 **Kisii University Club Management System** – A platform to streamline club registration, events, and student engagement.
+- 💼 **SkyBiz Platform** – A digital hub to empower entrepreneurs with tools, training, and mentorship in business development.
+- 🚢 **BlockVoyage** – A blockchain-powered shipping logistics platform for secure and transparent cargo tracking.
+- 🧠 **AI Emergency Diagnosis & Triage System** – An NLP-powered system for real-time emergency triage and referral support in frontline healthcare.
+- 👁️ **Diabetic Retinopathy Detection** – A deep learning project using CNNs for early detection of diabetic eye conditions from retinal images.
+- 🚜 **GreenCoin** – A decentralized carbon credit rewards platform for African farmers, built with **ICP + Blockchain + Crypto Wallets**.
+- 🩺 **AI Health Dataset for Kenyan Languages** – NLP-driven health data collection and triage model tailored for low-resource language communities.
+- 💸 **M-PESA Dev Docs** – Developer-friendly API documentation platform for seamless M-PESA integration and payment automation.
+
+---
 
 
 ## 📚 Currently Learning
