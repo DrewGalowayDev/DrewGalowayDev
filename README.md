@@ -6,6 +6,37 @@
 🎯 **Software Engineer | Blockchain Developer | AI for Health Advocate**
 
 I'm a passionate developer driven by impact — building multi-versated Projects & systems handling full stack web development, AI, at the intersection of software engineering, blockchain for social good. With experience across the **MERN stack**, **PHP Laravel**,**MOBILE App Development** ,and **Internet Computer Protocol (ICP)**, I love creating projects that solve real-world problems, empower underserved communities, and drive innovation across industries such as health, finance, agriculture, and education.
+## 💻 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/robinson-crusoe" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/robinson-otochi-921bb4311" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:robinsonotoch7@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://codepen.io/r" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+</p>
 
 ---
 ## 🚀 Featured Projects
@@ -32,38 +63,26 @@ I'm a passionate developer driven by impact — building multi-versated Projects
 - **Kisii University** - Software Engineering
 - **Jomo Kenyatta University** - Robotics and Automation
 
-### 💻 Connect with Me
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Drewgallowaydev" height="30" width="40" /></a>
-<a href="https://" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DrewGallowayDev" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/robinson-otochi-921bb4311]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morgan okumu" height="30" width="40" /></a>
-<a href="https://" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="DrewGallowayDev" height="30" width="40" /></a>
-<a href="https://fb." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="DrewGallowayDev" height="30" width="40" /></a>
-<a href="https://" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DrewGallowayDev" height="30" width="40" /></a>
-<a href="https://" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="DrewGallowayDev" height="30" width="40" /></a>
-</p>
-
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks:**  
-`JavaScript` `TypeScript` `Node.js` `React` `PHP` `Laravel` `HTML/CSS`  
+**🌐 Languages & Frameworks:**  
+`JavaScript` `TypeScript` `PHP` `HTML` `CSS` `Node.js` `React` `Laravel`
 
-**Blockchain & Protocols:**  
-`Internet Computer (ICP)` `Motoko` `Smart Contracts` `Crypto Wallets`  
+**⚙️ Full Stack / MERN Stack:**  
+`MongoDB` `Express.js` `React.js` `Node.js`
 
-**AI & Tools:**  
-`Python` `TensorFlow` `NLP` `OpenAI API`  
-
-**Databases:**  
+**📦 Databases:**  
 `MongoDB` `MySQL` `Firebase`
- **Mobile Development**:
-  - Proficient in **Java**, **Kotlin**, and **XML** for native Android development.
-  - Experience with **Flutter** and **Dart** for cross-platform applications.
-- **🤖 AI Enthusiast**:
-  - Keen interest in exploring artificial intelligence technologies and applications.
+
+**📱 Mobile Development:**  
+`Java` `Kotlin` `Flutter`
+
+**🔗 Blockchain & Protocols:**  
+`Internet Computer (ICP)` `Motoko` `Smart Contracts` `Crypto Wallets`
+
+**🧠 AI & Tools:**  
+`Python` `TensorFlow` `NLP` `OpenAI API`
 
 🔭 *I’m always open to new collaborations — especially in AI, blockchain, and social impact tech!*
 
@@ -103,9 +122,5 @@ I am continually seeking to expand my knowledge in:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DrewGalowayDev&icon=0&color=0)](https://visitcount.itsvg.in)
-## 📫 Get in Touch
-- **GitHub**: [https://github.com/DrewGalowayDev]
-- **LinkedIn**: [https://www.linkedin.com/in/robinson-otochi-921bb4311]
-- **Email**: [robinsonotoch7@gmail.com]
 
 Feel free to reach out for collaboration or just to connect! Looking forward to sharing knowledge and projects with fellow developers.
